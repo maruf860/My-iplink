@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/nagorik.png",NAGORIK TV
+http://172.19.178.29:18190/CLOUD-TV-02/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/tsports.png", T SPORTS
+http://172.19.178.29:18190/CLOUD-TV-03/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/gtv.png", GTV
+http://172.19.178.39:18190/JS-TV-01/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/maasranga.png", MASRANGA
+http://172.19.178.39:18190/JS-TV-02/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/jamunatv.png", JAMUNA TV
+http://172.19.178.39:18190/JS-TV-03/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/somoytv.png", SOMOY TV
+http://172.19.178.39:18190/JS-TV-05/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/jalshamovies.png", Jalsa movies
+http://172.19.178.39:18190/JS-TV-06/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/channeli.png", CHANNEL I
+http://172.19.178.39:18190/JS-TV-07/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/starjalsha.png", STAR JALSA
+http://172.19.178.49:18190/SN-ST-TV-03/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/zeebangla.png", ZEE BANGLA
+http://172.19.178.49:18190/SN-ST-TV-02/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/sonysportsten2.png", sony sport 2
+http://172.19.178.59:18190/SN-ST-TV-11/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_SD.png", sony sport 3
+http://172.19.178.49:18190/SN-ST-TV-07/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_SD.png", sony sport 1
+http://172.19.178.59:18190/SN-ST-TV-09/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/A/atn-news-logo-6A3E3EC072-seeklogo.com.png", ATN NEWS
+http://172.19.178.59:18190/SN-ST-TV-17/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/channel24.png", channel 24
+http://172.19.178.59:18190/SN-ST-TV-18/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/dbc.png", DBC NEWS
+http://172.19.178.59:18190/SN-ST-TV-19/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/satv.png",SATV 
+http://172.19.178.59:18190/SN-ST-TV-20/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/sangsadbangladesh.png", SANGSAD TV
+http://172.19.178.59:18190/SN-ST-TV-21/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/news24.png", NEWS24
+http://172.19.178.59:18190/SN-ST-TV-23/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/mohonatv.png", MOHONA TV
+http://172.19.178.59:18190/SN-ST-TV-24/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/ekusheytv.png", EKUSHEY TV
+http://172.19.178.59:18190/SN-ST-TV-26/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/deshtv.png", DESH tV
+http://172.19.178.59:18190/SN-ST-TV-27/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/channel9.png", CHANNEL 9
+http://172.19.178.59:18190/SN-ST-TV-29/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/btvworld.png", BTV
+http://172.19.178.59:18190/SN-ST-TV-30/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://iconape.com/wp-content/png_logo_vector/boishakhi-tv-logo.png", BOISAKHI TV
+http://172.19.178.59:18190/SN-ST-TV-31/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/B/bangla-vision-tv-channel-logo-51DF1904E8-seeklogo.com.png", BANGLAVISION
+http://172.19.178.59:18190/SN-ST-TV-32/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://seeklogo.com/images/A/atn-bangla-logo-14FA4A5F18-seeklogo.com.png", ATN BANGLA
+http://172.19.178.59:18190/SN-ST-TV-33/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://www.pngfind.com/pngs/m/162-1620250_asian-tv-bd-logo-hd-png-download.png", ASIAN TV
+http://172.19.178.59:18190/SN-ST-TV-34/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/71.png", 71 TV
+http://172.19.178.59:18190/SN-ST-TV-35/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/mytv.png", MY TV
+http://172.19.178.59:18190/SN-ST-TV-36/index.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/ntv.png", NTV
+http://172.19.178.59:18190/SN-ST-TV-37/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="http://172.19.178.178/tv/img/tsports.png", T SPORTS
+http://172.19.178.49:18190/SN-ST-TV-06/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/706/926/png-clipart-eurosport-2-logo-television-eurosport-1-eurosport-hd-television-blue-thumbnail.png", EURO SPORTS
+http://172.19.178.59:18190/SN-ST-TV-14/tracks-v1a1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/500/179/png-clipart-bangladesh-logo-independent-television-television-channel-bd-logo-television-text-thumbnail.png", Inependent tv
+http://172.19.178.59:18190/SN-ST-TV-25/index.m3u8
+#EXTINF:-1  tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_SD.png", sony sports 5
+http://172.19.178.59:18190/SN-ST-TV-15/tracks-v1/mono.m3u8
+#EXTINF:-1  tvg-logo="https://logodix.com/logo/947778.png", STAR SPORTS 1
+http://172.19.178.49:18190/SN-ST-TV-00/tracks-v1a1/mono.m3u8
